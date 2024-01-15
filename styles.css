@@ -1,0 +1,35 @@
+h1 {
+    font-size: 50px;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+h6 {
+    font-size: 25px;
+}
+
+.test {
+    color:green;
+}
+
+#main-heading {
+    color:blue;
+}
+
+#head-photo {
+    height: 200px;
+    width: 250px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px #141414;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    margin-right: 10px;
+}
